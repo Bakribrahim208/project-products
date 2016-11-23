@@ -1,0 +1,28 @@
+c:\users\usersfiles\documents\visual studio 2013\Projects\adel saboor project\adel saboor project\bin\Debug\adel saboor project.exe.config
+C:\Users\UsersFiles\Documents\Visual Studio 2013\Projects\adel saboor project\adel saboor project\obj\Debug\adel saboor project.csprojResolveAssemblyReference.cache
+C:\Users\UsersFiles\Documents\Visual Studio 2013\Projects\adel saboor project\adel saboor project\obj\Debug\adel_saboor_project.Properties.Resources.resources
+C:\Users\UsersFiles\Documents\Visual Studio 2013\Projects\adel saboor project\adel saboor project\obj\Debug\adel saboor project.csproj.GenerateResource.Cache
+C:\Users\UsersFiles\Documents\Visual Studio 2013\Projects\adel saboor project\adel saboor project\bin\Debug\adel saboor project.exe
+C:\Users\UsersFiles\Documents\Visual Studio 2013\Projects\adel saboor project\adel saboor project\bin\Debug\adel saboor project.pdb
+C:\Users\UsersFiles\Documents\Visual Studio 2013\Projects\adel saboor project\adel saboor project\obj\Debug\adel saboor project.exe
+C:\Users\UsersFiles\Documents\Visual Studio 2013\Projects\adel saboor project\adel saboor project\obj\Debug\adel saboor project.pdb
+C:\Users\UsersFiles\documents\visual studio 2013\Projects\adel saboor project\adel saboor project\obj\Debug\adel_saboor_project.CUSTMOR.resources
+C:\Users\UsersFiles\Documents\Visual Studio 2013\Projects\adel saboor project\adel saboor project\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\UsersFiles\Documents\Visual Studio 2013\Projects\adel saboor project\adel saboor project\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\UsersFiles\Documents\Visual Studio 2013\Projects\adel saboor project\adel saboor project\obj\Debug\adel saboor project.csproj.ResolveComReference.cache
+C:\Users\UsersFiles\Documents\Visual Studio 2013\Projects\adel saboor project\adel saboor project\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\UsersFiles\Documents\Visual Studio 2013\Projects\adel saboor project\adel saboor project\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\my projects\adel saboor project\adel saboor project\bin\Debug\adel saboor project.exe.config
+G:\my projects\adel saboor project\adel saboor project\obj\Debug\Interop.ShockwaveFlashObjects.dll
+G:\my projects\adel saboor project\adel saboor project\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\my projects\adel saboor project\adel saboor project\obj\Debug\adel saboor project.csproj.ResolveComReference.cache
+G:\my projects\adel saboor project\adel saboor project\obj\Debug\adel saboor project.exe
+G:\my projects\adel saboor project\adel saboor project\obj\Debug\adel saboor project.pdb
+G:\my projects\adel saboor project\adel saboor project\bin\Debug\adel saboor project.exe
+G:\my projects\adel saboor project\adel saboor project\bin\Debug\adel saboor project.pdb
+G:\my projects\adel saboor project\adel saboor project\bin\Debug\Interop.ShockwaveFlashObjects.dll
+G:\my projects\adel saboor project\adel saboor project\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\my projects\adel saboor project\adel saboor project\obj\Debug\adel saboor project.csprojResolveAssemblyReference.cache
+G:\my projects\adel saboor project\adel saboor project\obj\Debug\adel_saboor_project.CUSTMOR.resources
+G:\my projects\adel saboor project\adel saboor project\obj\Debug\adel_saboor_project.Properties.Resources.resources
+G:\my projects\adel saboor project\adel saboor project\obj\Debug\adel saboor project.csproj.GenerateResource.Cache

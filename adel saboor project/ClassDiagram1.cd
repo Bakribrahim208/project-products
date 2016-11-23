@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="adel_saboor_project.Customor">
+    <Position X="1.75" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgUAAAABECAQAoSAAAAAAAAEAAMAAAAgAAACAkIAABA=</HashCode>
+      <FileName>Customor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="orders" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="adel_saboor_project.orders">
+    <Position X="4.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQBAAAADAAkAIIABQgAAgMACIEAAAAAAIAAIBAAgAQ=</HashCode>
+      <FileName>orders.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Products" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="adel_saboor_project.Products">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>igQhCAAAAAAAAIARAAQAAAAAAAkBAASAAGCCFAgCAIA=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="adel_saboor_project.workTable">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAUIAAgAIAAAAAQAAAAQAAAAAAAEAAACCQIAEAAAQAA=</HashCode>
+      <FileName>workTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="adel_saboor_project.Basic_opertion">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAIAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Basic_opertion.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="adel_saboor_project.Request_statues">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAEg=</HashCode>
+      <FileName>Request_statues.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
